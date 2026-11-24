@@ -1,4 +1,4 @@
-# auto_bottle
+# REPACK automation script for Linux using Bottles
 
 A Python CLI tool that automates setting up a fresh [Bottles](https://usebottles.com/) Gaming prefix for FitGirl game repack folders on Linux (Flatpak or native Bottles).
 
