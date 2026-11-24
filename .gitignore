@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments & secrets
+.env
+.env.*
+.venv/
+venv/
+env/
+
+# Local logs, scratch & temporary files
+*.log
+*.tmp
+scratch/
+.DS_Store
